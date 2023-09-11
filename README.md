@@ -1,1 +1,1 @@
-# OpenCV-Sudoku-SolverOpenCV-Sudoku-Solver
+# OpenCV-Sudoku-Solver
